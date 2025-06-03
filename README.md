@@ -14,6 +14,7 @@ I'm currently a new grad at the University of Maryland, diving into the world of
 
 ## 🛠 Skills
 **Languages:** Python, JavaScript, TypeScript, Java, C++, SQL, HTML/CSS 
+
 **Frameworks:** React.js, Next.js, Node.js, Flask, GraphQL  
 **Tools/Platforms:** AWS (Lambda, RDS, DynamoDB), Firebase, Docker, Prisma, Supabase, Git  
 
