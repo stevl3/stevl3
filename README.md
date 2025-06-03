@@ -8,12 +8,13 @@ I'm currently a new grad at the University of Maryland, diving into the world of
 - 📫 How to reach me: [stevle.swe@gmail.com](mailto:stevle.swe@gmail.com)
 
 ## 🚀 Quick Links
-- 📝 [Resume](https://stevl3.vercel.app/resume.pdf))
-- 🌐 [Portfolio]((https://stevl3.vercel.app/))
-- 💼 [LinkedIn](https://linkedin.com/stevle)
+- 📄 [View My Resume](https://stevl3.vercel.app/resume)
+- 🌐 [Portfolio Website](https://stevl3.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/stevle)
 
 ## 🛠 Skills
-Languages: JavaScript, Python, HTML/CSS, SQL, Java, Go
-Technologies: React, Firebase, PostgreSQL, Docker, AWS, Tailwind
-Concepts: AI/ML, System Design, Cybersecurity, FinTech
+**Languages:** Python, JavaScript, TypeScript, Java, C++, SQL  
+**Frameworks:** React.js, Next.js, Node.js, Flask, Spring Boot, GraphQL  
+**Tools/Platforms:** AWS (Lambda, RDS, DynamoDB), Firebase, Docker, Kubernetes, Prisma, Supabase, Git  
+**Domains:** FinTech, AI/ML, Document Intelligence, System Design, Cloud Infrastructure 
 
