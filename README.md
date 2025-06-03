@@ -8,7 +8,7 @@ I'm currently a new grad at the University of Maryland, diving into the world of
 - 📫 How to reach me: [stevle.swe@gmail.com](mailto:stevle.swe@gmail.com)
 
 ## 🚀 Quick Links
-- 📄 [View My Resume](https://stevl3.vercel.app/resume)
+- 📄 [View My Resume](https://stevl3.vercel.app/resume.pdf)
 - 🌐 [Portfolio Website](https://stevl3.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/stevle)
 
