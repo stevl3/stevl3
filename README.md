@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there, I'm Steven! 👋🏻
 
-<!--
-**stevl3/stevl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
+I'm currently a new grad at the University of Maryland, diving into the world of software and AI.
 
-Here are some ideas to get you started:
+- 💡 I love building tools that solve real-world problems.
+- 🚀 Currently learning about AI, fintech, and system design.
+- 📫 How to reach me: [stevle.swe@gmail.com](mailto:stevle.swe@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Quick Links
+- 📝 [Resume](https://stevl3.vercel.app/resume.pdf))
+- 🌐 [Portfolio]((https://stevl3.vercel.app/))
+- 💼 [LinkedIn](https://linkedin.com/stevle)
+
+## 🛠 Skills
+Languages: JavaScript, Python, HTML/CSS, SQL, Java, Go
+Technologies: React, Firebase, PostgreSQL, Docker, AWS, Tailwind
+Concepts: AI/ML, System Design, Cybersecurity, FinTech
+
