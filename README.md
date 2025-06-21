@@ -1,4 +1,4 @@
-# Hey there, I'm Steven! 👋🏻
+# Name: Steven! 👋🏻
 
 ## 📚 About Me
 I'm currently a new grad at the University of Maryland, diving into the world of software and AI.
